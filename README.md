@@ -1,4 +1,4 @@
-# homework2
+# README!
 
 Hey this is the top of the page I have been working on. Used of alot of great CSS, and semantic HTML.
 Here is the link https://lncainwa.github.io/homework2/
