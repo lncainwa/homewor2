@@ -1,7 +1,7 @@
 # README!
 
 Hey this is the top of the page I have been working on. Used of alot of great CSS, and semantic HTML.
-Here is the link https://lncainwa.github.io/homework2/
+Here is the link https://lncainwa.github.io/horiseon-social-git-repo/
 
 ![scrnsht1](https://user-images.githubusercontent.com/101686596/162601699-c9f8055c-c88b-4245-a63c-7a05e3103cc9.png)
 
